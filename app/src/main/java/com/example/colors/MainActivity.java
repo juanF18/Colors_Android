@@ -24,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
   }
 
   public void initView() {
+    /*
+     * Captura todos los los elemento del view (del archivo xml)
+     */
 
     IblProposedColor = findViewById(R.id.IblProposedColor);
     IblTargetColor = findViewById(R.id.IblTargetColor);
