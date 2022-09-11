@@ -62,14 +62,11 @@ public class MainActivity extends AppCompatActivity {
   }
 
   public void initView() {
-<<<<<<< HEAD
     /*
      * Captura todos los los elemento del view (del archivo xml)
      */
-
-=======
     //Conexion de los controles sobre la interfaz
->>>>>>> 66d2c15 (Se agrega el icono, 2 idiomas mas y tips para los colores)
+
     IblProposedColor = findViewById(R.id.IblProposedColor);
     IblTargetColor = findViewById(R.id.IblTargetColor);
 
