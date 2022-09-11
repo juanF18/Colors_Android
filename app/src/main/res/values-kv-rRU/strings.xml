@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Цвета</string>
+    <string name="Red">Красный</string>
+    <string name="Green">Зеленый</string>
+    <string name="Blue">Синий</string>
+    <string name="Target_color">Целевой цвет</string>
+    <string name="Proposed_color">Предлагаемый цвет</string>
+    <string name="Score">Счет</string>
+    <string name="Your_score_is">Ваш счет %1 $ s</string>
+    <string name="X_is_Y">%1 $ S IS %2 $ S</string>
+    <string name="Low">Низкий</string>
+    <string name="Very_low">Очень низкий</string>
+    <string name="High">Высокая</string>
+    <string name="Very_high">Очень высоко</string>
+    <string name="New">Новый</string>
+    <string name="Tips">Советы</string>
+    <string name="Close">Закрывать</string>
+</resources>

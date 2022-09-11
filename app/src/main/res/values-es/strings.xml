@@ -8,7 +8,7 @@
     <string name="Proposed_color">Color Propuesto</string>
     <string name="Score">Puntaje</string>
     <string name="Your_score_is">Su puntaje es %1$s</string>
-    <string name="X_is_Y">%1$s is %2$s</string>
+    <string name="X_is_Y">%1$s es %2$s</string>
     <string name="Low">Bajo</string>
     <string name="Very_low">Muy bajo</string>
     <string name="High">Alto</string>

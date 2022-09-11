@@ -86,7 +86,7 @@
             android:orientation="horizontal">
 
             <TextView
-                android:id="@+id/IblGreenValues"
+                android:id="@+id/IblGreenTitle"
                 android:layout_width="40dp"
                 android:layout_height="match_parent"
                 android:layout_weight="0"
